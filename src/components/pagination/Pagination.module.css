@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    gap: 15px;
+    align-self: flex-end;
+    padding: 0 7px;
+}
+
+.pageItem {
+    list-style-type: none;
+    color: #808080;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    padding: 2px 6px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.pageItem:active,
+.pageItem:hover {
+    color: #0064EB;
+}
+
+.activePage {
+    background-color: #0064EB;
+    color: #FFFFFF
+}

@@ -1,0 +1,22 @@
+.initial{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.initial svg{
+    padding: 23px;
+}
+.initial p{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 140%;
+    text-align: center;
+
+    color: #808080;
+
+    margin: 0;
+    margin-top: 24px;
+}

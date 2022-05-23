@@ -1,0 +1,15 @@
+.input{
+    width: 50vw;
+    max-width: 500px;
+    background-color: #F9F9F9;
+    border: none;
+    outline:  none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.01em;
+}
